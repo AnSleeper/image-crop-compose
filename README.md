@@ -6,7 +6,7 @@
 
 ## 下载
 
-- **免安装版**：到 [Releases](https://github.com/AnSleeper/image-crop-compose/releases/latest) 页面，在底部 **Assets** 里下载 `图片自由裁剪.exe`，双击即可运行（Windows 10 / 11 64 位，无需安装 Python）。
+- **免安装版**：到 [Releases](https://github.com/AnSleeper/image-crop-compose/releases/latest) 页面，在底部 **Assets** 里下载 `image-crop-compose.exe`（即图片自由裁剪，免安装版），双击即可运行（Windows 10 / 11 64 位，无需安装 Python）。
   > 请放到普通文件夹里再运行，不要在压缩包里直接双击；若弹出 Windows SmartScreen 提示，点「更多信息 → 仍要运行」。程序完全离线，无任何网络行为。
 - **源码运行**：见下方「安装与运行」。
 
