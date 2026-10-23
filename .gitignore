@@ -1,0 +1,15 @@
+# Python 运行产物
+__pycache__/
+*.py[cod]
+
+# 虚拟环境
+.venv/
+venv/
+
+# 运行时生成的本地设置（包含本机路径，不入库）
+settings.json
+
+# 打包产物（二进制请通过 GitHub Releases 分发，不进 git 历史）
+build/
+dist/
+*.exe
